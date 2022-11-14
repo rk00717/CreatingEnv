@@ -1547,3 +1547,210 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.11.14-02.11.17:948][755]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
 [2022.11.14-02.11.17:948][755]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
 [2022.11.14-02.11.25:215][555]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.11.14-02.12.13:890][308]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.11.14-02.12.13:901][308]LogSavePackage: Moving 'E:/Projects/UnoReal/CreatingEnv/Saved/Minimal_DefaultC5F14C3B41F62D25541F33B87E5E2687.tmp' to 'E:/Projects/UnoReal/CreatingEnv/Content/StarterContent/Maps/Minimal_Default.umap'
+[2022.11.14-02.12.13:905][308]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="E:/Projects/UnoReal/CreatingEnv/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2022.11.14-02.12.13:924][308]LogSavePackage: Moving 'E:/Projects/UnoReal/CreatingEnv/Saved/Minimal_Default_BuiltDataA767FBF048FDAC2441B1E1AF3FD1E469.tmp' to 'E:/Projects/UnoReal/CreatingEnv/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2022.11.14-02.12.13:932][308]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.14-02.12.13:932][308]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2022.11.14-02.12.13:932][308]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.11.14-02.12.20:848][117]Cmd: TRANSACTION UNDO
+[2022.11.14-02.12.20:848][117]LogEditorTransaction: Undo Move Actors
+[2022.11.14-02.12.50:907][612]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.11.14-02.12.50:917][612]LogSavePackage: Moving 'E:/Projects/UnoReal/CreatingEnv/Saved/Minimal_DefaultAB70EB6A45705CD4E8276F8315899924.tmp' to 'E:/Projects/UnoReal/CreatingEnv/Content/StarterContent/Maps/Minimal_Default.umap'
+[2022.11.14-02.12.50:920][612]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="E:/Projects/UnoReal/CreatingEnv/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2022.11.14-02.12.50:940][612]LogSavePackage: Moving 'E:/Projects/UnoReal/CreatingEnv/Saved/Minimal_Default_BuiltData979C9D964B5FAE43D5E3F0B197CF97BA.tmp' to 'E:/Projects/UnoReal/CreatingEnv/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2022.11.14-02.12.50:948][612]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.14-02.12.50:948][612]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2022.11.14-02.12.50:948][612]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.11.14-02.13.15:198][231]Cmd: TRANSACTION UNDO
+[2022.11.14-02.13.15:198][231]LogEditorTransaction: Undo Clicking on Actors
+[2022.11.14-02.13.15:647][244]Cmd: TRANSACTION UNDO
+[2022.11.14-02.13.15:647][244]LogEditorTransaction: Undo Clicking on Actors
+[2022.11.14-02.13.16:057][280]Cmd: TRANSACTION UNDO
+[2022.11.14-02.13.16:057][280]LogEditorTransaction: Undo Move World Outliner Items
+[2022.11.14-02.13.16:545][323]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.11.14-02.13.16:554][323]LogSavePackage: Moving 'E:/Projects/UnoReal/CreatingEnv/Saved/Minimal_Default2A4C721441F57D449C4E36B71BA33C0F.tmp' to 'E:/Projects/UnoReal/CreatingEnv/Content/StarterContent/Maps/Minimal_Default.umap'
+[2022.11.14-02.13.16:556][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="E:/Projects/UnoReal/CreatingEnv/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2022.11.14-02.13.16:576][323]LogSavePackage: Moving 'E:/Projects/UnoReal/CreatingEnv/Saved/Minimal_Default_BuiltDataA6780B414EE4796FE415B0814ADEA542.tmp' to 'E:/Projects/UnoReal/CreatingEnv/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2022.11.14-02.13.16:585][323]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.14-02.13.16:585][323]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2022.11.14-02.13.16:585][323]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.11.14-02.13.41:970][126]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.11.14-02.13.51:706][ 55]Cmd: EDCALLBACK SURFPROPS
+[2022.11.14-02.13.52:604][162]Cmd: POLY SELECT MATCHING BRUSH
+[2022.11.14-02.15.13:549][ 61]Cmd: POLY SELECT MATCHING BRUSH
+[2022.11.14-02.15.34:174][404]Cmd: TRANSACTION UNDO
+[2022.11.14-02.15.34:174][404]LogEditorTransaction: Undo Move Actors
+[2022.11.14-02.16.01:778][626]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.11.14-02.16.04:382][932]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.11.14-02.16.31:420][120]Cmd: TRANSACTION UNDO
+[2022.11.14-02.16.31:420][120]LogEditorTransaction: Undo Move Actors
+[2022.11.14-02.16.31:967][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.11.14-02.16.31:981][133]LogSavePackage: Moving 'E:/Projects/UnoReal/CreatingEnv/Saved/Minimal_Default2E0E36C9469AE76AD45AC982C131961C.tmp' to 'E:/Projects/UnoReal/CreatingEnv/Content/StarterContent/Maps/Minimal_Default.umap'
+[2022.11.14-02.16.31:987][133]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="E:/Projects/UnoReal/CreatingEnv/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2022.11.14-02.16.32:009][133]LogSavePackage: Moving 'E:/Projects/UnoReal/CreatingEnv/Saved/Minimal_Default_BuiltDataE71E07BE443F9589CB72E19C9800805A.tmp' to 'E:/Projects/UnoReal/CreatingEnv/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2022.11.14-02.16.32:019][133]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.14-02.16.32:019][133]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2022.11.14-02.16.32:019][133]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.11.14-02.16.52:895][593]Cmd: DELETE
+[2022.11.14-02.16.52:895][593]Cmd: ACTOR DELETE
+[2022.11.14-02.16.52:902][593]LogEditorActor: Deleted Actor: Brush
+[2022.11.14-02.16.52:909][593]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.11.14-02.16.52:916][593]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2022.11.14-02.17.29:794][789]Cmd: POLY SELECT MATCHING BRUSH
+[2022.11.14-02.17.38:034][649]Cmd: TRANSACTION UNDO
+[2022.11.14-02.17.38:034][649]LogEditorTransaction: Undo Select Brush Surface
+[2022.11.14-02.17.38:708][675]Cmd: TRANSACTION UNDO
+[2022.11.14-02.17.38:708][675]LogEditorTransaction: Undo Set Material
+[2022.11.14-02.17.48:206][785]Cmd: TRANSACTION UNDO
+[2022.11.14-02.17.48:206][785]LogEditorTransaction: Undo Move Actors
+[2022.11.14-02.17.54:081][433]Cmd: TRANSACTION UNDO
+[2022.11.14-02.17.54:081][433]LogEditorTransaction: Undo Apply Material to Surface
+[2022.11.14-02.18.06:151][796]Cmd: TRANSACTION UNDO
+[2022.11.14-02.18.06:151][796]LogEditorTransaction: Undo Move Actors
+[2022.11.14-02.18.06:904][829]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.11.14-02.18.06:920][829]LogSavePackage: Moving 'E:/Projects/UnoReal/CreatingEnv/Saved/Minimal_Default72481B0A461DD43B399538A39B960288.tmp' to 'E:/Projects/UnoReal/CreatingEnv/Content/StarterContent/Maps/Minimal_Default.umap'
+[2022.11.14-02.18.06:924][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="E:/Projects/UnoReal/CreatingEnv/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2022.11.14-02.18.06:945][829]LogSavePackage: Moving 'E:/Projects/UnoReal/CreatingEnv/Saved/Minimal_Default_BuiltDataE5FB0B5E4F23B018CF0F5D912CB48118.tmp' to 'E:/Projects/UnoReal/CreatingEnv/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2022.11.14-02.18.06:953][829]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.14-02.18.06:953][829]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2022.11.14-02.18.06:954][829]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.11.14-02.18.40:113][645]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.11.14-02.18.40:127][645]LogSavePackage: Moving 'E:/Projects/UnoReal/CreatingEnv/Saved/Minimal_Default5A0ECA2A4CA992FCB052178F6FC21E5B.tmp' to 'E:/Projects/UnoReal/CreatingEnv/Content/StarterContent/Maps/Minimal_Default.umap'
+[2022.11.14-02.18.40:130][645]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="E:/Projects/UnoReal/CreatingEnv/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2022.11.14-02.18.40:150][645]LogSavePackage: Moving 'E:/Projects/UnoReal/CreatingEnv/Saved/Minimal_Default_BuiltDataEC16EF1E49DF23A9F060F483326C80DD.tmp' to 'E:/Projects/UnoReal/CreatingEnv/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2022.11.14-02.18.40:158][645]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.14-02.18.40:158][645]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2022.11.14-02.18.40:158][645]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.11.14-02.19.20:392][335]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.11.14-02.19.20:697][366]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.11.14-02.19.20:713][366]LogSavePackage: Moving 'E:/Projects/UnoReal/CreatingEnv/Saved/Minimal_Default52A9E0DB4D771B413FCEF998C99A2776.tmp' to 'E:/Projects/UnoReal/CreatingEnv/Content/StarterContent/Maps/Minimal_Default.umap'
+[2022.11.14-02.19.20:715][366]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="E:/Projects/UnoReal/CreatingEnv/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2022.11.14-02.19.20:735][366]LogSavePackage: Moving 'E:/Projects/UnoReal/CreatingEnv/Saved/Minimal_Default_BuiltDataB1A1C5454F7085C6254584A4E78102AB.tmp' to 'E:/Projects/UnoReal/CreatingEnv/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2022.11.14-02.19.20:742][366]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.14-02.19.20:743][366]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2022.11.14-02.19.20:743][366]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.11.14-02.19.36:922][177]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.11.14-02.19.37:251][213]Cmd: TRANSACTION UNDO
+[2022.11.14-02.19.37:251][213]LogEditorTransaction: Undo Brush Add
+[2022.11.14-02.19.37:255][213]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_2529' invalid (1162 verts, 0 indices).
+[2022.11.14-02.19.37:255][213]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_2529.BodySetup_0 when we are unable to.
+[2022.11.14-02.19.37:255][213]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_2530' invalid (1162 verts, 0 indices).
+[2022.11.14-02.19.37:255][213]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_2530.BodySetup_0 when we are unable to.
+[2022.11.14-02.19.37:255][213]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_2531' invalid (1162 verts, 0 indices).
+[2022.11.14-02.19.37:255][213]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_2531.BodySetup_0 when we are unable to.
+[2022.11.14-02.19.37:255][213]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_2532' invalid (1162 verts, 0 indices).
+[2022.11.14-02.19.37:255][213]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_2532.BodySetup_0 when we are unable to.
+[2022.11.14-02.19.37:255][213]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_2533' invalid (1162 verts, 0 indices).
+[2022.11.14-02.19.37:255][213]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_2533.BodySetup_0 when we are unable to.
+[2022.11.14-02.19.37:255][213]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_2534' invalid (1162 verts, 0 indices).
+[2022.11.14-02.19.37:255][213]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_2534.BodySetup_0 when we are unable to.
+[2022.11.14-02.19.37:255][213]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_2535' invalid (1162 verts, 0 indices).
+[2022.11.14-02.19.37:255][213]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_2535.BodySetup_0 when we are unable to.
+[2022.11.14-02.19.37:255][213]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_2536' invalid (1162 verts, 0 indices).
+[2022.11.14-02.19.37:255][213]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_2536.BodySetup_0 when we are unable to.
+[2022.11.14-02.19.37:256][213]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_2537' invalid (1162 verts, 0 indices).
+[2022.11.14-02.19.37:256][213]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_2537.BodySetup_0 when we are unable to.
+[2022.11.14-02.19.37:256][213]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_2538' invalid (1162 verts, 0 indices).
+[2022.11.14-02.19.37:256][213]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_2538.BodySetup_0 when we are unable to.
+[2022.11.14-02.19.37:256][213]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_2539' invalid (1162 verts, 0 indices).
+[2022.11.14-02.19.37:256][213]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_2539.BodySetup_0 when we are unable to.
+[2022.11.14-02.19.37:256][213]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_2540' invalid (1162 verts, 0 indices).
+[2022.11.14-02.19.37:256][213]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_2540.BodySetup_0 when we are unable to.
+[2022.11.14-02.19.37:256][213]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_2541' invalid (1162 verts, 0 indices).
+[2022.11.14-02.19.37:256][213]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_2541.BodySetup_0 when we are unable to.
+[2022.11.14-02.19.37:256][213]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_2542' invalid (1162 verts, 0 indices).
+[2022.11.14-02.19.37:256][213]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_2542.BodySetup_0 when we are unable to.
+[2022.11.14-02.19.37:256][213]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_2543' invalid (1162 verts, 0 indices).
+[2022.11.14-02.19.37:256][213]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_2543.BodySetup_0 when we are unable to.
+[2022.11.14-02.19.37:256][213]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_2544' invalid (1162 verts, 0 indices).
+[2022.11.14-02.19.37:256][213]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_2544.BodySetup_0 when we are unable to.
+[2022.11.14-02.19.37:256][213]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_2545' invalid (1162 verts, 0 indices).
+[2022.11.14-02.19.37:256][213]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_2545.BodySetup_0 when we are unable to.
+[2022.11.14-02.19.37:256][213]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_2546' invalid (1162 verts, 0 indices).
+[2022.11.14-02.19.37:256][213]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_2546.BodySetup_0 when we are unable to.
+[2022.11.14-02.19.37:256][213]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_2547' invalid (1162 verts, 0 indices).
+[2022.11.14-02.19.37:256][213]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_2547.BodySetup_0 when we are unable to.
+[2022.11.14-02.19.37:257][213]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_2548' invalid (1162 verts, 0 indices).
+[2022.11.14-02.19.37:257][213]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_2548.BodySetup_0 when we are unable to.
+[2022.11.14-02.19.37:257][213]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_2549' invalid (1162 verts, 0 indices).
+[2022.11.14-02.19.37:257][213]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_2549.BodySetup_0 when we are unable to.
+[2022.11.14-02.19.37:257][213]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_2550' invalid (1162 verts, 0 indices).
+[2022.11.14-02.19.37:257][213]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_2550.BodySetup_0 when we are unable to.
+[2022.11.14-02.19.37:257][213]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_2551' invalid (1162 verts, 0 indices).
+[2022.11.14-02.19.37:257][213]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_2551.BodySetup_0 when we are unable to.
+[2022.11.14-02.19.45:805][ 73]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.11.14-02.19.50:182][560]Cmd: EDCALLBACK SURFPROPS
+[2022.11.14-02.19.51:296][693]Cmd: POLY SELECT MATCHING BRUSH
+[2022.11.14-02.20.06:157][386]Cmd: TRANSACTION UNDO
+[2022.11.14-02.20.06:157][386]LogEditorTransaction: Undo Move Actors
+[2022.11.14-02.20.41:496][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.11.14-02.20.41:513][520]LogSavePackage: Moving 'E:/Projects/UnoReal/CreatingEnv/Saved/Minimal_Default51BA70D449DCCD661ACDDE8BCD439E42.tmp' to 'E:/Projects/UnoReal/CreatingEnv/Content/StarterContent/Maps/Minimal_Default.umap'
+[2022.11.14-02.20.41:517][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="E:/Projects/UnoReal/CreatingEnv/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2022.11.14-02.20.41:537][520]LogSavePackage: Moving 'E:/Projects/UnoReal/CreatingEnv/Saved/Minimal_Default_BuiltDataAC73A26144D14C3AF42A2A910BEF9EEB.tmp' to 'E:/Projects/UnoReal/CreatingEnv/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2022.11.14-02.20.41:546][520]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.14-02.20.41:546][520]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2022.11.14-02.20.41:546][520]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.11.14-02.20.44:696][864]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.11.14-02.20.49:796][324]Cmd: TRANSACTION UNDO
+[2022.11.14-02.20.49:796][324]LogEditorTransaction: Undo Brush Add
+[2022.11.14-02.20.51:923][503]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.11.14-02.21.12:188][842]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.14-02.21.27:912][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.11.14-02.21.27:931][704]LogSavePackage: Moving 'E:/Projects/UnoReal/CreatingEnv/Saved/Minimal_Default79B81D34403E4E0995D99DA322326BA6.tmp' to 'E:/Projects/UnoReal/CreatingEnv/Content/StarterContent/Maps/Minimal_Default.umap'
+[2022.11.14-02.21.27:935][704]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="E:/Projects/UnoReal/CreatingEnv/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2022.11.14-02.21.27:955][704]LogSavePackage: Moving 'E:/Projects/UnoReal/CreatingEnv/Saved/Minimal_Default_BuiltData6B8C101B490B6CCB0D3C40ACAE4FACED.tmp' to 'E:/Projects/UnoReal/CreatingEnv/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2022.11.14-02.21.27:963][704]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.14-02.21.27:963][704]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2022.11.14-02.21.27:963][704]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.11.14-02.22.04:744][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.11.14-02.22.04:764][ 33]LogSavePackage: Moving 'E:/Projects/UnoReal/CreatingEnv/Saved/Minimal_DefaultAE779CA94E1032B4F7BC1297373CF8AA.tmp' to 'E:/Projects/UnoReal/CreatingEnv/Content/StarterContent/Maps/Minimal_Default.umap'
+[2022.11.14-02.22.04:768][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="E:/Projects/UnoReal/CreatingEnv/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2022.11.14-02.22.04:788][ 33]LogSavePackage: Moving 'E:/Projects/UnoReal/CreatingEnv/Saved/Minimal_Default_BuiltData825826CB4EC04DEA3F903EA30C87C7D4.tmp' to 'E:/Projects/UnoReal/CreatingEnv/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2022.11.14-02.22.04:796][ 33]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.14-02.22.04:796][ 33]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2022.11.14-02.22.04:796][ 33]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.11.14-02.22.07:831][376]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.11.14-02.22.10:322][664]Cmd: EDCALLBACK SURFPROPS
+[2022.11.14-02.22.11:545][810]Cmd: POLY SELECT MATCHING BRUSH
+[2022.11.14-02.22.35:815][555]Cmd: TRANSACTION UNDO
+[2022.11.14-02.22.35:815][555]LogEditorTransaction: Undo Select Brush Surface
+[2022.11.14-02.22.36:518][578]Cmd: TRANSACTION UNDO
+[2022.11.14-02.22.36:518][578]LogEditorTransaction: Undo Move Actors
+[2022.11.14-02.22.36:952][617]Cmd: TRANSACTION UNDO
+[2022.11.14-02.22.36:952][617]LogEditorTransaction: Undo Move Actors
+[2022.11.14-02.23.01:901][577]Cmd: TRANSACTION UNDO
+[2022.11.14-02.23.01:901][577]LogEditorTransaction: Undo Scale Actors
+[2022.11.14-02.23.32:315][139]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.11.14-02.24.16:280][319]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.11.14-02.24.18:976][634]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.11.14-02.24.18:999][634]LogSavePackage: Moving 'E:/Projects/UnoReal/CreatingEnv/Saved/Minimal_DefaultF15F64E84ACF7A91BAF4BBBF15CA47EA.tmp' to 'E:/Projects/UnoReal/CreatingEnv/Content/StarterContent/Maps/Minimal_Default.umap'
+[2022.11.14-02.24.19:007][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="E:/Projects/UnoReal/CreatingEnv/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2022.11.14-02.24.19:027][634]LogSavePackage: Moving 'E:/Projects/UnoReal/CreatingEnv/Saved/Minimal_Default_BuiltData968052A14AB25D2A83C96ABEC229A1C1.tmp' to 'E:/Projects/UnoReal/CreatingEnv/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2022.11.14-02.24.19:054][634]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.14-02.24.19:054][634]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2022.11.14-02.24.19:054][634]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.11.14-02.25.04:610][422]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.11.14-02.25.04:631][422]LogSavePackage: Moving 'E:/Projects/UnoReal/CreatingEnv/Saved/Minimal_Default4C532F8B4A5156DE2AA9DE8CA45E9F52.tmp' to 'E:/Projects/UnoReal/CreatingEnv/Content/StarterContent/Maps/Minimal_Default.umap'
+[2022.11.14-02.25.04:634][422]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="E:/Projects/UnoReal/CreatingEnv/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2022.11.14-02.25.04:654][422]LogSavePackage: Moving 'E:/Projects/UnoReal/CreatingEnv/Saved/Minimal_Default_BuiltData1295F1DD47D5EF5F5A8931A5D0D9BB5A.tmp' to 'E:/Projects/UnoReal/CreatingEnv/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2022.11.14-02.25.04:661][422]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.14-02.25.04:661][422]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2022.11.14-02.25.04:661][422]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.11.14-02.25.32:071][872]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.11.14-02.25.44:787][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.11.14-02.25.44:807][311]LogSavePackage: Moving 'E:/Projects/UnoReal/CreatingEnv/Saved/Minimal_DefaultB2F852934DA8C816598A96B9D9FE233E.tmp' to 'E:/Projects/UnoReal/CreatingEnv/Content/StarterContent/Maps/Minimal_Default.umap'
+[2022.11.14-02.25.44:810][311]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="E:/Projects/UnoReal/CreatingEnv/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2022.11.14-02.25.44:831][311]LogSavePackage: Moving 'E:/Projects/UnoReal/CreatingEnv/Saved/Minimal_Default_BuiltData6B2F1C8E4DC741716B640FBDB525A339.tmp' to 'E:/Projects/UnoReal/CreatingEnv/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2022.11.14-02.25.44:837][311]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.14-02.25.44:837][311]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2022.11.14-02.25.44:837][311]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.11.14-02.35.44:369][148]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{689a977c-54f1-47ce-a6bd-f29bd18c92e1}.
+[2022.11.14-02.35.44:369][148]LogAudioMixer: Resetting audio stream to device id 
+[2022.11.14-02.35.44:380][148]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.14-02.35.44:381][148]LogAudioMixer: Display: 1: FrontRight
+[2022.11.14-02.50.39:794][831]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{49c0af3b-e63d-409c-ad70-71f473a0df3b}.
+[2022.11.14-02.50.39:794][831]LogAudioMixer: Resetting audio stream to device id 
+[2022.11.14-02.50.39:798][831]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.14-02.50.39:798][831]LogAudioMixer: Display: 1: FrontRight
